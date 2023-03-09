@@ -11,4 +11,5 @@ chmod +x /bin/push
 
 usage
 
-root@0234234234234:ALXDirectory#  push Commit_message
+root@0234234234234:ALXDirectory#  push Commit
+root@0234234234234:ALXDirectory#  push "Commit Message"
